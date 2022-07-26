@@ -1,1 +1,1 @@
-# flutter_widgets
+# This repository contains essential widgets for flutter
